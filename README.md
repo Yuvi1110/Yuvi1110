@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yuvi1110
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Javareact, NodeJs
+- 🌱 I’m currently learning Javaascript, NodeJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
